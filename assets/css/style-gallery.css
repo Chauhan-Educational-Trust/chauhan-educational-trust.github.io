@@ -21,7 +21,7 @@ html {
 
 .hero-section {
   align-items: center;
-  background-image: linear-gradient(15deg, #008b8b 0%, #efe 150%);
+  background-image: linear-gradient(15deg, #a7c59b 0%, #efe 150%);
   display: flex;
   min-height: 100vh;
   justify-content: center;
