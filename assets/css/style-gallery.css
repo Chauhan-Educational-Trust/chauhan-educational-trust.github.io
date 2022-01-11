@@ -99,7 +99,7 @@ html {
 }
 
 .card-grid:hover > .card:not(:hover) .card__background {
-  filter: brightness(0.9) saturate(1) contrast(0.9) blur(2px);
+  filter: brightness(1) saturate(1) contrast(1) blur(1px);
   border-radius: var(--spacing-l);
 }
 
